@@ -1,6 +1,6 @@
 
 
-console.log('javascript loaded')
+console.log('javascript loaded yes')
 
 const weatherform = document.querySelector('form')
 const search = document.querySelector('input')
